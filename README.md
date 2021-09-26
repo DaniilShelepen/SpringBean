@@ -5,4 +5,6 @@ Dependency Injection
 
 Bean scope
 
-Bean Lifecycle. Init, Destroy and Factory method
+Bean Lifecycle
+
+Init, Destroy and Factory method
